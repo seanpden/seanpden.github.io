@@ -4,7 +4,7 @@
 
 My portfolio, hosted by "Github Pages".
 
-This is going to include things like:
+This includes things like:
 
 - General information about me
 - A list of projects I'd like to spotlight
