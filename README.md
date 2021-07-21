@@ -11,4 +11,4 @@ This includes things like:
 - A contact page
 - List of work and marketable skills
 
-It's also going to act as a central location for me to update and showcase my academic and professional career.
+It also acts as a central location for me to update and showcase my academic and professional career.
