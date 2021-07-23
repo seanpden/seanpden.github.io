@@ -1,4 +1,4 @@
-<?php
+<!-- <?php
 
 $errors = [];
 $errorMessage = '';
@@ -42,4 +42,6 @@ if (!empty($_POST)) {
     }
 }
 
-?>
+?> -->
+
+mail(seanden522@gmail.com, test, test);
